@@ -3,6 +3,7 @@ module github.com/MehulxBuilds/Go-Workflows
 go 1.25.0
 
 require (
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	github.com/andybalholm/brotli v1.2.2 // indirect
 	github.com/gofiber/fiber/v3 v3.4.0 // indirect
 	github.com/gofiber/schema v1.8.0 // indirect
